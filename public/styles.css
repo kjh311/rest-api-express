@@ -1,0 +1,16 @@
+/* body {
+  background-color: red;
+} */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.user-list {
+  margin-top: 20px;
+}
+input,
+button {
+  margin: 5px;
+  padding: 10px;
+}
